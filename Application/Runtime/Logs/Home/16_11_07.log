@@ -1,0 +1,10 @@
+[ 2016-11-07T17:05:27+08:00 ] 127.0.0.1 /www/wx/index.php?_ijt=c05g5hnbo2sehpm8ovr6618q1b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023002s ]
+
+[ 2016-11-07T17:26:25+08:00 ] 127.0.0.1 /www/wx/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.132008s ]
+
