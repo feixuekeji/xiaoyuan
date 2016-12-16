@@ -51,7 +51,7 @@
 
     </div>
 </div>
-<script src="../js/mui.min.js"></script>
+<script src="/wx/Public/mui/js/mui.min.js"></script>
 <script>
     mui.init({
         swipeBack: true //启用右滑关闭功能
